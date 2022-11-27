@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Helo - Hola - Cześć 👋, I'm David Quezada</h1>
 <h3 align="center">A passionate Mechatronic engineer from Mexico</h3>
 
-- 🌱 I’m currently learning **FreeRTOS, ROS**
-
 - 📫 How to reach me **dqreator@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
